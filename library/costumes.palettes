@@ -1,0 +1,33 @@
+{
+  "colors": [
+  ],
+  "export": true,
+  "guid": "4f1779be-f538-4030-adb3-57f6ec3c90e8",
+  "id": "officeversusCostumes",
+  "imageAsset": "5e53caf2-c621-45da-b20e-98d455415680",
+  "maps": [
+    {
+      "$id": "a3763a06-ae5e-446b-a2ac-b53bdb2a5b9e",
+      "colors": [
+      ],
+      "name": "Default",
+      "pluginMetadata": {
+        "com.fraymakers.FraymakersMetadata": {
+          "isBase": true,
+          "teamColor": "GREEN"
+        }
+      }
+    }
+  ],
+  "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.0"
+    }
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
